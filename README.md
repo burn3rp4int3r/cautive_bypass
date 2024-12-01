@@ -1,7 +1,4 @@
 # Cautive Bypass 
-by: x.x
-     '
-     U
 
 Cautive portal bypass with MAC spoofing attack
 
