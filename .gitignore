@@ -1,0 +1,12 @@
+# Python
+modules/__pycache__/
+*.py[cod]
+*$py.class
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
